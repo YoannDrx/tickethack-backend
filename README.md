@@ -9,6 +9,9 @@ Have fun coding!
 
 ## ✍️ Description 
 
+The Tickethack project consisted in creating a train ticket booking website with a frontend and a backend. I developed a home page to search for trips, a shopping cart page to display and manage selected trips, and a bookings page to view paid trips. I used Express Generator for the backend, made fetch requests for the communication between the frontend and the backend, and respected the clean code principles.
+
+
 ## 🎬 Getting Started : Dependencies and Other
 
 !! Most of my projects have a separate backend and frontend, you will find them here on my github.
